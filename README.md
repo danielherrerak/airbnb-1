@@ -13,4 +13,6 @@ sqlite3 airbnb.sqlite3
 
 Each practice exercise is in its own file – `practice-*.sql` – and can be executed using the `.read` command within SQLite, e.g. `.read practice-1.sql`. Each exercise includes the question, and roughly the expected output.
 
+Once done, please submit this assignment per the instructions in Canvas.
+
 For educational purposes only.
