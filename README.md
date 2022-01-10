@@ -2,7 +2,9 @@
 
 Data is from Inside Airbnb – http://insideairbnb.com/get-the-data.html - using Listings and Reviews only
 
-Start by building the database, using the provided script. From the command-line:
+Start by copying this repo to your own GitHub account, by using the "Use this template" button. Then, open in Gitpod.
+
+Once open in Gitpod, build the database using the provided script. From the command-line:
 
 ```
 sqlite3 airbnb.sqlite3
